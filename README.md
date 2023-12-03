@@ -21,9 +21,7 @@ To successfully execute this project, ensure the following components are availa
 
 Contributions to this project are encouraged through forking the repository, implementing modifications, and initiating a pull request. Any enhancements, bug fixes, or additional functionalities are greatly appreciated!
 
-## License
 
-This project operates under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
